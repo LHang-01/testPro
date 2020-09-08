@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE book.mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-book.mapper.dtd">
+<book.mapper namespace="book.mapper.QuestionMapper">
+    <insert id="insert" parameterType="question">
+        insert into it_community.question(title, description, gmt_create, gmt_modified, creator, comment_count, view_count, like_count, tag)
+        values (#{id}, #{title}, #{description}, #{gmt_create}, #{gmt_modified}, #{creator}, #{comment_count}, #{view_count}, #{like_count}, #{tag})
+    </insert>
+
+    <select id="selectByPrimaryKey" parameterType="java.lang.Long" resultType="question">
+        select * from it_community.question where id=#{id}
+    </select>
+
+    <update id="update" parameterType="question">
+        update it_community.question set gmt_create=#{gmtCreate}, title=#{title},description=#{description},tag=#{tag} where id=#{id}
+    </update>
+
+    <select id="selectRelated" resultType="question" parameterType="question">
+        select * from question where id != #{id} and tag=#{tag} order by #{gmt_create} desc limit 20
+    </select>
+
+    <update id="incView" parameterType="question">
+        update question set view_count=view_count+#{view_count} where id = #{id}
+    </update>
+
+    <update id="incCommentCount" parameterType="question">
+        update question set comment_count=comment_count+#{comment_count} where id = #{id}
+    </update>
+
+    <select id="countBySearch" parameterType="questionQueryDTO">
+        select count(*) from question where title like '%#{search}%'
+    </select>
+
+    <select id="selectBySearch" parameterType="questionQueryDTO">
+        select * from question where title like '%#{search}%' order by #{gmt_create} desc limit #{page}, #{size}
+    </select>
+
+    <select id="countByExample" parameterType="question">
+        select count(*) from question where creator = #{creator}
+    </select>
+
+    <select id="selectByUserIdWithRowbounds" parameterType="map">
+        select * from question where creator=#{creator} limit #{offset}, #{size}
+    </select>
+
+</book.mapper>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE book.mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-book.mapper.dtd">
+<book.mapper namespace="book.mapper.UserMapper">
+
+    <insert id="insert" parameterType="user">
+        insert into user (account_id, name,token,gmt_create,gmt_modified,avatar_url)values (#{accountId},#{name},#{token},#{gmtCreate},#{gmtModified},#{avatarUrl})
+    </insert>
+
+    <update id="update" parameterType="user">
+        update user set
+            name = #{name},
+            token= #{token},
+            gmt_modified= #{gmtModified},
+            avatar_url= #{avatarUrl}
+        where id = #{id}
+    </update>
+
+    <select id="selectByPrimaryKey" resultType="user">
+        select * from user where id = #{id}
+    </select>
+
+    <select id = "selectByPrimaryKeys" parameterType="java.lang.Long" resultType="model.User">
+        select * from user where id in
+        <foreach collection="ids" index="index" item="item" open="(" separator="," close=")">
+            #{item}
+        </foreach>
+    </select>
+
+    <select id="findByToken" parameterType="String" resultType="model.User">
+        select * from user where token = #{token}
+    </select>
+
+    <select id="findByAccountId" parameterType="String" resultType="model.User">
+        select * from user where account_id = #{accountId}
+    </select>
+
+
+</book.mapper>

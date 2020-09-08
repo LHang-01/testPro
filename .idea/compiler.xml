@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springMybatisNoMapperImp2" />
+        <module name="springMybatisNoMapperImp" />
+        <module name="springIoc" />
+        <module name="simpleServlet" />
+        <module name="springMybatis" />
+        <module name="springAopAno" />
+        <module name="jsonTest" />
+        <module name="mybatis" />
+        <module name="ssm01" />
+        <module name="spring_mybatis_tx" />
+        <module name="springMVC_02" />
+        <module name="springMVC_01" />
+        <module name="springIocAno" />
+        <module name="dynamicProxy" />
+        <module name="mybatisAno" />
+        <module name="springAop" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dataeyeTest" target="1.8" />
+      <module name="springMybatisNoMapper2" target="1.8" />
+      <module name="springMybatisNoMapperImp1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

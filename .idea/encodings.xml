@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dataeyeTest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dynamicProxy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jsonTest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis-01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatisAno" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/simpleServlet" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springAop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springAopAno" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springIoc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springIocAno" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springMVC_01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springMVC_02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springMybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springMybatisNoMapperImp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springMybatisNoMapperImp2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring_mybatis_tx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ssm01" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

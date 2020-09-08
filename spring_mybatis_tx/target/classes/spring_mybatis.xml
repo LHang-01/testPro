@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:tx="http://www.springframework.org/schema/tx"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context.xsd
+       http://www.springframework.org/schema/aop
+       http://www.springframework.org/schema/aop/spring-aop.xsd
+       http://www.springframework.org/schema/tx
+       http://www.springframework.org/schema/tx/spring-tx.xsd">
+
+    <!--读取文件-->
+    <context:property-placeholder location="classpath:db.properties" local-override="true"/>
+
+<!--    <bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">-->
+<!--        <property name="driverClassName" value="${driver}"/>-->
+<!--        <property name="url" value="${url}"/>-->
+<!--        <property name="username" value="${username}"/>-->
+<!--        <property name="password" value="${password}"/>-->
+<!--    </bean>-->
+
+<!--    &lt;!&ndash;配置数据源：数据源有非常多，可以使用第三方的，也可使使用Spring的&ndash;&gt;-->
+<!--    <bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">-->
+<!--        <property name="driverClassName" value="com.mysql.jdbc.Driver"/>-->
+<!--        <property name="url" value="jdbc:mysql://localhost:3306/mybatis?useSSL=false&amp;useUnicode=true&amp;characterEncoding=UTF-8"/>-->
+<!--        <property name="username" value="root"/>-->
+<!--        <property name="password" value="12345678"/>-->
+<!--    </bean>-->
+
+    <!--配置 druid 数据源 关于更多的配置项 可以参考官方文档 <a href="https://github.com/alibaba/druid/wiki/DruidDataSource%E9%85%8D%E7%BD%AE%E5%B1%9E%E6%80%A7%E5%88%97%E8%A1%A8" > -->
+    <bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource" init-method="init" destroy-method="close">
+        <!--基本属性-->
+        <property name="driverClassName" value="${driver}"/>
+        <property name="url" value="${url}"/>
+        <property name="username" value="${username}"/>
+        <property name="password" value="${password}"/>
+
+        <!--初始化大小、最小、最大连接数量-->
+        <property name="initialSize" value="5"/>
+        <property name="minIdle" value="10"/>
+        <property name="maxActive" value="20"/>
+
+        <!--配置获取连接等待超时的时间-->
+        <property name="maxWait" value="60000"/>
+
+        <!-- 配置间隔多久才进行一次检测，检测需要关闭的空闲连接，单位是毫秒 -->
+        <property name="timeBetweenEvictionRunsMillis" value="2000"/>
+
+        <!-- 配置一个连接在池中最小生存的时间，单位是毫秒 -->
+        <property name="minEvictableIdleTimeMillis" value="600000"/>
+        <!-- 配置一个连接在池中最大生存的时间，单位是毫秒 -->
+        <property name="maxEvictableIdleTimeMillis" value="900000"/>
+
+        <!--validationQuery 用来检测连接是否有效的 sql，要求是一个查询语句，常用 select 'x'。
+            但是在 oracle 数据库下需要写成 select 'x' from dual 不然实例化数据源的时候就会失败,
+            这是由于 oracle 和 mysql 语法间的差异造成的-->
+        <property name="validationQuery" value="select 'x'"/>
+        <!--建议配置为 true，不影响性能，并且保证安全性。申请连接的时候检测，
+        如果空闲时间大于 timeBetweenEvictionRunsMillis，执行 validationQuery 检测连接是否有效。-->
+        <property name="testWhileIdle" value="true"/>
+        <!--申请连接时执行 validationQuery 检测连接是否有效，做了这个配置会降低性能。-->
+        <property name="testOnBorrow" value="false"/>
+        <!--归还连接时执行 validationQuery 检测连接是否有效，做了这个配置会降低性能。-->
+        <property name="testOnReturn" value="false"/>
+
+        <!--连接池中的 minIdle 数量以内的连接，空闲时间超过 minEvictableIdleTimeMillis，则会执行 keepAlive 操作。-->
+        <property name="keepAlive" value="true"/>
+        <property name="phyMaxUseCount" value="100000"/>
+
+        <!-- 配置监控统计拦截的 filters Druid 连接池的监控信息主要是通过 StatFilter 采集的，
+        采集的信息非常全面，包括 SQL 执行、并发、慢查、执行时间区间分布等-->
+        <property name="filters" value="stat"/>
+    </bean>
+
+    <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
+        <property name="dataSource" ref="dataSource"/>
+        <property name="configLocation" value="classpath:mybatisConfig.xml"/>
+        <property name="mapperLocations" value="classpath:mapper/*.xml"/>
+    </bean>
+
+<!--    <bean id="sqlSession" class="org.mybatis.spring.SqlSessionTemplate">-->
+<!--        <constructor-arg index="0" ref="sqlSessionFactory"/>-->
+<!--    </bean>-->
+
+    <!--扫描mapper接口所在包，以省略对每一个mapper配置MapperFactoryBean-->
+    <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+        <property name="basePackage" value="mapper"/>
+    </bean>
+
+    <bean id="user1" class="pojo.User">
+        <property name="id" value="11"/>
+        <property name="name" value="刘航"/>
+        <property name="pwd" value="3456"/>
+    </bean>
+
+    <bean id="user2" class="pojo.User">
+        <property name="id" value="11"/>
+        <property name="name" value="刘航"/>
+        <property name="pwd" value="6666"/>
+    </bean>
+
+    <!--指定注解扫描包-->
+    <context:component-scan base-package="service"/>
+    <context:component-scan base-package="mapper"/>
+
+    <!--JDBC事务-->
+    <bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <property name="dataSource" ref="dataSource"/>
+    </bean>
+
+    <!-- 配置事务管理器 -->
+    <tx:advice id="txAdvice" transaction-manager="transactionManager">
+        <tx:attributes>
+            <!--配置哪些方法使用什么样的事务,配置事务的传播特性,隔离级别-->
+            <tx:method name="operation" propagation="REQUIRED"/>
+        </tx:attributes>
+    </tx:advice>
+
+    <!--配置AOP织入事务,即配置事务通知-->
+    <aop:config>
+        <!-- 配置切入点表达式 -->
+        <aop:pointcut id="txPointcut" expression="execution(* service.*.*(..))"/>
+        <!-- 将事务通知和切入点表达式关联起来 -->
+        <aop:advisor advice-ref="txAdvice" pointcut-ref="txPointcut" />
+    </aop:config>
+
+
+</beans>

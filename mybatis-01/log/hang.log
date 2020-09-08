@@ -1,0 +1,1352 @@
+[DEBUG][20-08-11][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1782148126.
+[DEBUG][20-08-11][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@6a396c1e]
+[DEBUG][20-08-11][book.mapper.UserMapper.insert]==>  Preparing: insert into user(account_id) values (?)
+[DEBUG][20-08-11][book.mapper.UserMapper.insert]==> Parameters: adc2d8a3-7250-47e4-9a2e-dc174eaf6da1(String)
+[DEBUG][20-08-11][book.mapper.UserMapper.insert]<==    Updates: 1
+[DEBUG][20-08-11][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Rolling back JDBC Connection [com.mysql.jdbc.JDBC4Connection@6a396c1e]
+[DEBUG][20-08-11][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@6a396c1e]
+[DEBUG][20-08-11][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@6a396c1e]
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1782148126 to pool.
+[DEBUG][20-08-11][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 928466577.
+[DEBUG][20-08-11][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@37574691]
+[DEBUG][20-08-11][book.mapper.UserMapper.insert]==>  Preparing: insert into user(account_id) values (?)
+[DEBUG][20-08-11][book.mapper.UserMapper.insert]==> Parameters: c93b1fe6-f8d1-4e01-9fbf-161e9834698c(String)
+[DEBUG][20-08-11][book.mapper.UserMapper.insert]<==    Updates: 1
+[DEBUG][20-08-11][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1782148126.
+[DEBUG][20-08-11][book.mapper.UserMapper.insert]==>  Preparing: insert into user(account_id) values (?)
+[DEBUG][20-08-11][book.mapper.UserMapper.insert]==> Parameters: d4115ee9-3881-4399-8d3a-8689edcceabf(String)
+[DEBUG][20-08-11][book.mapper.UserMapper.insert]<==    Updates: 1
+[DEBUG][20-08-11][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@6a396c1e]
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1782148126 to pool.
+[DEBUG][20-08-11][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1782148126.
+[DEBUG][20-08-11][book.mapper.UserMapper.insert]==>  Preparing: insert into user(account_id) values (?)
+[DEBUG][20-08-11][book.mapper.UserMapper.insert]==> Parameters: d179fdea-1257-4d09-a1cd-c0b2f13ca6c7(String)
+[DEBUG][20-08-11][book.mapper.UserMapper.insert]<==    Updates: 1
+[DEBUG][20-08-11][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@6a396c1e]
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1782148126 to pool.
+[DEBUG][20-08-11][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1782148126.
+[DEBUG][20-08-11][book.mapper.UserMapper.insert]==>  Preparing: insert into user(account_id) values (?)
+[DEBUG][20-08-11][book.mapper.UserMapper.insert]==> Parameters: bf8fa53c-e9ac-4c52-a700-3e6626987c58(String)
+[DEBUG][20-08-11][book.mapper.UserMapper.insert]<==    Updates: 1
+[DEBUG][20-08-11][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@6a396c1e]
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1782148126 to pool.
+[DEBUG][20-08-11][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 1782148126.
+[DEBUG][20-08-11][book.mapper.UserMapper.insert]==>  Preparing: insert into user (account_id, name,token,gmt_create,gmt_modified,avatar_url)values (?,?,?,?,?,?)
+[DEBUG][20-08-11][book.mapper.UserMapper.insert]==> Parameters: 498f1c26-551b-4171-8e1f-9ba613bd37df(String), xiaoming(String), e9fc7196-2853-49b8-840d-e34fcd5021e7(String), 1597137909240(Long), 1597137909240(Long), githubUser.getAvatarUrl()(String)
+[DEBUG][20-08-11][book.mapper.UserMapper.insert]<==    Updates: 1
+[DEBUG][20-08-11][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@6a396c1e]
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]Returned connection 1782148126 to pool.
+[DEBUG][20-08-11][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 912011468.
+[DEBUG][20-08-11][book.mapper.UserMapper.selectByPrimaryKey]==>  Preparing: select * from user where id = ?
+[DEBUG][20-08-11][book.mapper.UserMapper.selectByPrimaryKey]==> Parameters: 1(Long)
+[DEBUG][20-08-11][book.mapper.UserMapper.selectByPrimaryKey]<==      Total: 1
+[DEBUG][20-08-11][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 572191680.
+[DEBUG][20-08-11][book.mapper.UserMapper.selectByPrimaryKeys]==>  Preparing: select * from user where id in ( ? , ? )
+[DEBUG][20-08-11][book.mapper.UserMapper.selectByPrimaryKeys]==> Parameters: 1(Long), 3(Long)
+[DEBUG][20-08-11][book.mapper.UserMapper.selectByPrimaryKeys]<==      Total: 2
+[DEBUG][20-08-11][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 912011468.
+[DEBUG][20-08-11][book.mapper.UserMapper.findByToken]==>  Preparing: select * from user where token = ?
+[DEBUG][20-08-11][book.mapper.UserMapper.findByToken]==> Parameters: e9fc7196-2853-49b8-840d-e34fcd5021e7(String)
+[DEBUG][20-08-11][book.mapper.UserMapper.findByToken]<==      Total: 1
+[DEBUG][20-08-11][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 912011468.
+[DEBUG][20-08-11][book.mapper.UserMapper.findByAccountId]==>  Preparing: select * from user where account_id = ?
+[DEBUG][20-08-11][book.mapper.UserMapper.findByAccountId]==> Parameters: 498f1c26-551b-4171-8e1f-9ba613bd37df(String)
+[DEBUG][20-08-11][book.mapper.UserMapper.findByAccountId]<==      Total: 1
+[DEBUG][20-08-11][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 912011468.
+[DEBUG][20-08-11][book.mapper.UserMapper.findByAccountId]==>  Preparing: select * from user where account_id = ?
+[DEBUG][20-08-11][book.mapper.UserMapper.findByAccountId]==> Parameters: 498f1c26-551b-4171-8e1f-9ba613bd37df(String)
+[DEBUG][20-08-11][book.mapper.UserMapper.findByAccountId]<==      Total: 1
+[DEBUG][20-08-11][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-11][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-11][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 572191680.
+[DEBUG][20-08-11][book.mapper.UserMapper.selectByPrimaryKeys]==>  Preparing: select * from user where id in ( ? , ? )
+[DEBUG][20-08-11][book.mapper.UserMapper.selectByPrimaryKeys]==> Parameters: 1(Long), 3(Long)
+[DEBUG][20-08-11][book.mapper.UserMapper.selectByPrimaryKeys]<==      Total: 2
+[DEBUG][20-08-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][20-08-12][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 i K
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 p P
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 _ C
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Comment matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Notification matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Question matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.User matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class dto.QuestionQueryDTO matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][20-08-12][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 i K
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 p P
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 _ C
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Comment matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Notification matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Question matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.User matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class dto.QuestionQueryDTO matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][20-08-12][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 i K
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 p P
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 _ C
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Comment matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Notification matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Question matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.User matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class dto.QuestionQueryDTO matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][20-08-12][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 i K
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 p P
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 _ C
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Comment matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Notification matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Question matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.User matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class dto.QuestionQueryDTO matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 341853399.
+[DEBUG][20-08-12][book.mapper.UserMapper.insert]==>  Preparing: insert into user (account_id, name,token,gmt_create,gmt_modified,avatar_url)values (?,?,?,?,?,?)
+[DEBUG][20-08-12][book.mapper.UserMapper.insert]==> Parameters: 216a1552-66c9-4d3e-bce9-bde6d0ce8903(String), xiaoming(String), b32356f0-be35-4a4f-bd36-c8cdd7f04b2b(String), 1597199659053(Long), 1597199659053(Long), githubUser.getAvatarUrl()(String)
+[DEBUG][20-08-12][book.mapper.UserMapper.insert]<==    Updates: 1
+[DEBUG][20-08-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][20-08-12][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 i K
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 p P
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 _ C
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Comment matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Notification matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Question matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.User matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class dto.QuestionQueryDTO matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 341853399.
+[DEBUG][20-08-12][book.mapper.UserMapper.update]==>  Preparing: update user set name = ?, token= ?, gmt_modified= ?, avatar_url= ? where id = ?
+[DEBUG][20-08-12][book.mapper.UserMapper.update]==> Parameters: xiaohong(String), 8ea9bb3e-43b7-4c03-bf61-2340edc88687(String), 1597199703533(Long), githubGetAvatarUrl()(String), 1(Long)
+[DEBUG][20-08-12][book.mapper.UserMapper.update]<==    Updates: 1
+[DEBUG][20-08-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][20-08-12][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 i K
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 p P
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 _ C
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Comment matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Notification matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Question matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.User matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class dto.QuestionQueryDTO matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 624271064.
+[DEBUG][20-08-12][book.mapper.UserMapper.selectByPrimaryKey]==>  Preparing: select * from user where id = ?
+[DEBUG][20-08-12][book.mapper.UserMapper.selectByPrimaryKey]==> Parameters: 1(Long)
+[DEBUG][20-08-12][book.mapper.UserMapper.selectByPrimaryKey]<==      Total: 1
+[DEBUG][20-08-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][20-08-12][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 i K
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 p P
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 _ C
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Comment matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Notification matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Question matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.User matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class dto.QuestionQueryDTO matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 252651381.
+[DEBUG][20-08-12][book.mapper.UserMapper.selectByPrimaryKeys]==>  Preparing: select * from user where id in ( ? , ? )
+[DEBUG][20-08-12][book.mapper.UserMapper.selectByPrimaryKeys]==> Parameters: 1(Long), 3(Long)
+[DEBUG][20-08-12][book.mapper.UserMapper.selectByPrimaryKeys]<==      Total: 2
+[DEBUG][20-08-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][20-08-12][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 i K
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 p P
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 _ C
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Comment matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Notification matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Question matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.User matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class dto.QuestionQueryDTO matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 624271064.
+[DEBUG][20-08-12][book.mapper.UserMapper.findByToken]==>  Preparing: select * from user where token = ?
+[DEBUG][20-08-12][book.mapper.UserMapper.findByToken]==> Parameters: e9fc7196-2853-49b8-840d-e34fcd5021e7(String)
+[DEBUG][20-08-12][book.mapper.UserMapper.findByToken]<==      Total: 1
+[DEBUG][20-08-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][20-08-12][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 i K
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 p P
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 _ C
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Comment matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Notification matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Question matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.User matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class dto.QuestionQueryDTO matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 624271064.
+[DEBUG][20-08-12][book.mapper.UserMapper.findByAccountId]==>  Preparing: select * from user where account_id = ?
+[DEBUG][20-08-12][book.mapper.UserMapper.findByAccountId]==> Parameters: 498f1c26-551b-4171-8e1f-9ba613bd37df(String)
+[DEBUG][20-08-12][book.mapper.UserMapper.findByAccountId]<==      Total: 1
+[DEBUG][20-08-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][20-08-12][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 i K
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 p P
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 _ C
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Comment matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Notification matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Question matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.User matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class dto.QuestionQueryDTO matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][20-08-12][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 i K
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 p P
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 _ C
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Comment matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Notification matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Question matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.User matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class dto.QuestionQueryDTO matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][20-08-12][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 i K
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 p P
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 _ C
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Comment matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Notification matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Question matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.User matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class dto.QuestionQueryDTO matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 2023938592.
+[DEBUG][20-08-12][book.mapper.UserMapper.insert]==>  Preparing: insert into user (account_id, name,token,gmt_create,gmt_modified,avatar_url)values (?,?,?,?,?,?)
+[DEBUG][20-08-12][book.mapper.UserMapper.insert]==> Parameters: 63bb1eb6-8208-456c-9d41-c8460d48a3de(String), xiaoming(String), 47208d87-5d57-4f73-b997-31cf65227e76(String), 1597200058870(Long), 1597200058870(Long), githubUser.getAvatarUrl()(String)
+[DEBUG][20-08-12][book.mapper.UserMapper.insert]<==    Updates: 1
+[DEBUG][20-08-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][20-08-12][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 i K
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 p P
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 _ C
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Comment matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Notification matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Question matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.User matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class dto.QuestionQueryDTO matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: CommentMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: commentMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: NotificationMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: notificationMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: questionMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: UserMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: userMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/CommentMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/CommentMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    selectByExample !(Lmodel/Comment;)Ljava/util/List; 	Signature 2(Lmodel/Comment;)Ljava/util/List<Lmodel/Comment;>; insert (Lmodel/Comment;)V selectByPrimaryKey !(Ljava/lang/Long;)Lmodel/Comment; incCommentCount 
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/commentMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/commentMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/NotificationMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/NotificationMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    countByExample )(Lmodel/Notification;)Ljava/lang/Integer; insert (Lmodel/Notification;)I selectByPrimaryKey &(Ljava/lang/Long;)Lmodel/Notification; updateByPrimaryKey selectByExampleWithRowbounds !(Ljava/util/Map;)Ljava/util/List; 	Signature 7(Ljava/util/Map;)Ljava/util/List<Lmodel/Notification;>; unreadCount &(Lmodel/Notification;)Ljava/lang/Long; 
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/notificationMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/notificationMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/QuestionMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/QuestionMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    insert (Lmodel/Question;)V selectByPrimaryKey "(Ljava/lang/Long;)Lmodel/Question; update (Lmodel/Question;)I 
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/questionMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/questionMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/UserMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/UserMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    insert (Lmodel/User;)V update selectByPrimaryKey (Ljava/lang/Long;)Lmodel/User; "RuntimeVisibleParameterAnnotations %Lorg/apache/ibatis/annotations/Param; value id selectByPrimaryKeys "(Ljava/util/List;)Ljava/util/List; 	Signature B(Ljava/util/List<Ljava/lang/Long;>;)Ljava/util/List<Lmodel/User;>; ids findByToken $(Ljava/lang/String;)Ljava/util/List; 2(Ljava/lang/String;)Ljava/util/List<Lmodel/User;>; token findByAccountId 	accountId 
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/userMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/userMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.CommentMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.NotificationMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.QuestionMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.UserMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 2023938592.
+[DEBUG][20-08-12][book.mapper.UserMapper.insert]==>  Preparing: insert into user (account_id, name,token,gmt_create,gmt_modified,avatar_url)values (?,?,?,?,?,?)
+[DEBUG][20-08-12][book.mapper.UserMapper.insert]==> Parameters: 10cdc71f-cca0-4278-8c2e-25e34a652942(String), xiaoming(String), 3fd59a5b-4236-49e3-93c7-2b5748fc0ea7(String), 1597200425652(Long), 1597200425652(Long), githubUser.getAvatarUrl()(String)
+[DEBUG][20-08-12][book.mapper.UserMapper.insert]<==    Updates: 1
+[DEBUG][20-08-12][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][20-08-12][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][20-08-12][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 i K
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 p P
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 _ C
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Comment matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Notification matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Question matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.User matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class dto.QuestionQueryDTO matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: CommentMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: commentMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: NotificationMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: notificationMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: questionMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: UserMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: userMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/CommentMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/CommentMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    selectByExample !(Lmodel/Comment;)Ljava/util/List; 	Signature 2(Lmodel/Comment;)Ljava/util/List<Lmodel/Comment;>; insert (Lmodel/Comment;)V selectByPrimaryKey !(Ljava/lang/Long;)Lmodel/Comment; incCommentCount 
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/commentMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/commentMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/NotificationMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/NotificationMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    countByExample )(Lmodel/Notification;)Ljava/lang/Integer; insert (Lmodel/Notification;)I selectByPrimaryKey &(Ljava/lang/Long;)Lmodel/Notification; updateByPrimaryKey selectByExampleWithRowbounds !(Ljava/util/Map;)Ljava/util/List; 	Signature 7(Ljava/util/Map;)Ljava/util/List<Lmodel/Notification;>; unreadCount &(Lmodel/Notification;)Ljava/lang/Long; 
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/notificationMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/notificationMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/QuestionMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/QuestionMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    insert (Lmodel/Question;)V selectByPrimaryKey "(Ljava/lang/Long;)Lmodel/Question; update (Lmodel/Question;)I 
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/questionMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/questionMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/UserMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/UserMapper.class
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    insert (Lmodel/User;)V update selectByPrimaryKey (Ljava/lang/Long;)Lmodel/User; "RuntimeVisibleParameterAnnotations %Lorg/apache/ibatis/annotations/Param; value id selectByPrimaryKeys "(Ljava/util/List;)Ljava/util/List; 	Signature B(Ljava/util/List<Ljava/lang/Long;>;)Ljava/util/List<Lmodel/User;>; ids findByToken $(Ljava/lang/String;)Ljava/util/List; 2(Ljava/lang/String;)Ljava/util/List<Lmodel/User;>; token findByAccountId 	accountId 
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/userMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/userMapper.xml
+[DEBUG][20-08-12][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.CommentMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.NotificationMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.QuestionMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.UserMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-12][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-12][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 2023938592.
+[DEBUG][20-08-12][book.mapper.UserMapper.insert]==>  Preparing: insert into user (account_id, name,token,gmt_create,gmt_modified,avatar_url)values (?,?,?,?,?,?)
+[DEBUG][20-08-12][book.mapper.UserMapper.insert]==> Parameters: 57a15d66-5871-4676-a2c1-969638bfa146(String), xiaoming(String), c6116685-84f6-478d-91b0-9dc17f4fd049(String), 1597224278461(Long), 1597224278461(Long), githubUser.getAvatarUrl()(String)
+[DEBUG][20-08-12][book.mapper.UserMapper.insert]<==    Updates: 1
+[DEBUG][20-08-13][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-13][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][20-08-13][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: Comment.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: Notification.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: Question.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: User.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 i K
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 p P
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 _ C
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Comment matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Notification matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Question matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.User matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionQueryDTO.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class dto.QuestionQueryDTO matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: CommentMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: commentMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: NotificationMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: notificationMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: questionMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: UserMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: userMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/CommentMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/CommentMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    selectByExample !(Lmodel/Comment;)Ljava/util/List; 	Signature 2(Lmodel/Comment;)Ljava/util/List<Lmodel/Comment;>; insert (Lmodel/Comment;)V selectByPrimaryKey !(Ljava/lang/Long;)Lmodel/Comment; incCommentCount 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/commentMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/commentMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/NotificationMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/NotificationMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    countByExample )(Lmodel/Notification;)Ljava/lang/Integer; insert (Lmodel/Notification;)I selectByPrimaryKey &(Ljava/lang/Long;)Lmodel/Notification; updateByPrimaryKey selectByExampleWithRowbounds !(Ljava/util/Map;)Ljava/util/List; 	Signature 7(Ljava/util/Map;)Ljava/util/List<Lmodel/Notification;>; unreadCount &(Lmodel/Notification;)Ljava/lang/Long; 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/notificationMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/notificationMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/QuestionMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/QuestionMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    insert (Lmodel/Question;)V selectByPrimaryKey "(Ljava/lang/Long;)Lmodel/Question; update (Lmodel/Question;)I 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/questionMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/questionMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/UserMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/UserMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    insert (Lmodel/User;)V update selectByPrimaryKey (Ljava/lang/Long;)Lmodel/User; "RuntimeVisibleParameterAnnotations %Lorg/apache/ibatis/annotations/Param; value id selectByPrimaryKeys "(Ljava/util/List;)Ljava/util/List; 	Signature B(Ljava/util/List<Ljava/lang/Long;>;)Ljava/util/List<Lmodel/User;>; ids findByToken $(Ljava/lang/String;)Ljava/util/List; 2(Ljava/lang/String;)Ljava/util/List<Lmodel/User;>; token findByAccountId 	accountId 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/userMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/userMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.CommentMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.NotificationMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.QuestionMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.UserMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 135184888.
+[DEBUG][20-08-13][book.mapper.UserMapper.insert]==>  Preparing: insert into user (account_id, name,token,gmt_create,gmt_modified,avatar_url)values (?,?,?,?,?,?)
+[DEBUG][20-08-13][book.mapper.UserMapper.insert]==> Parameters: 1bd93c11-61e2-45f6-bc87-928ff4fa87fd(String), xiaoming(String), fb484ee7-5970-4cfe-93d7-e01eb4e50ff1(String), 1597304666028(Long), 1597304666028(Long), githubUser.getAvatarUrl()(String)
+[DEBUG][20-08-13][book.mapper.UserMapper.insert]<==    Updates: 1
+[DEBUG][20-08-13][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-13][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][20-08-13][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: Comment.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: Notification.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: Question.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: User.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 i K
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 p P
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 _ C
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Comment matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Notification matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Question matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.User matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionQueryDTO.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class dto.QuestionQueryDTO matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: CommentMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: commentMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: NotificationMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: notificationMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: questionMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: UserMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: userMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/CommentMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/CommentMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    selectByExample !(Lmodel/Comment;)Ljava/util/List; 	Signature 2(Lmodel/Comment;)Ljava/util/List<Lmodel/Comment;>; insert (Lmodel/Comment;)V selectByPrimaryKey !(Ljava/lang/Long;)Lmodel/Comment; incCommentCount 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/commentMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/commentMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/NotificationMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/NotificationMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    countByExample )(Lmodel/Notification;)Ljava/lang/Integer; insert (Lmodel/Notification;)I selectByPrimaryKey &(Ljava/lang/Long;)Lmodel/Notification; updateByPrimaryKey selectByExampleWithRowbounds !(Ljava/util/Map;)Ljava/util/List; 	Signature 7(Ljava/util/Map;)Ljava/util/List<Lmodel/Notification;>; unreadCount &(Lmodel/Notification;)Ljava/lang/Long; 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/notificationMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/notificationMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/QuestionMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/QuestionMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    insert (Lmodel/Question;)V selectByPrimaryKey "(Ljava/lang/Long;)Lmodel/Question; update (Lmodel/Question;)I 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/questionMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/questionMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/UserMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/UserMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    insert (Lmodel/User;)V update selectByPrimaryKey (Ljava/lang/Long;)Lmodel/User; "RuntimeVisibleParameterAnnotations %Lorg/apache/ibatis/annotations/Param; value id selectByPrimaryKeys "(Ljava/util/List;)Ljava/util/List; 	Signature B(Ljava/util/List<Ljava/lang/Long;>;)Ljava/util/List<Lmodel/User;>; ids findByToken $(Ljava/lang/String;)Ljava/util/List; 2(Ljava/lang/String;)Ljava/util/List<Lmodel/User;>; token findByAccountId 	accountId 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/userMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/userMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.CommentMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.NotificationMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.QuestionMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.UserMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 135184888.
+[DEBUG][20-08-13][book.mapper.UserMapper.update]==>  Preparing: update user set name = ?, token= ?, gmt_modified= ?, avatar_url= ? where id = ?
+[DEBUG][20-08-13][book.mapper.UserMapper.update]==> Parameters: xiaohong(String), 5c8d0c51-535a-4d77-963f-9fdc79781580(String), 1597304680946(Long), githubGetAvatarUrl()(String), 1(Long)
+[DEBUG][20-08-13][book.mapper.UserMapper.update]<==    Updates: 1
+[DEBUG][20-08-13][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-13][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][20-08-13][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: Comment.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: Notification.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: Question.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: User.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 i K
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 p P
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 _ C
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Comment matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Notification matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Question matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.User matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionQueryDTO.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class dto.QuestionQueryDTO matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: CommentMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: commentMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: NotificationMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: notificationMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: questionMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: UserMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: userMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/CommentMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/CommentMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    selectByExample !(Lmodel/Comment;)Ljava/util/List; 	Signature 2(Lmodel/Comment;)Ljava/util/List<Lmodel/Comment;>; insert (Lmodel/Comment;)V selectByPrimaryKey !(Ljava/lang/Long;)Lmodel/Comment; incCommentCount 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/commentMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/commentMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/NotificationMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/NotificationMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    countByExample )(Lmodel/Notification;)Ljava/lang/Integer; insert (Lmodel/Notification;)I selectByPrimaryKey &(Ljava/lang/Long;)Lmodel/Notification; updateByPrimaryKey selectByExampleWithRowbounds !(Ljava/util/Map;)Ljava/util/List; 	Signature 7(Ljava/util/Map;)Ljava/util/List<Lmodel/Notification;>; unreadCount &(Lmodel/Notification;)Ljava/lang/Long; 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/notificationMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/notificationMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/QuestionMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/QuestionMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    insert (Lmodel/Question;)V selectByPrimaryKey "(Ljava/lang/Long;)Lmodel/Question; update (Lmodel/Question;)I 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/questionMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/questionMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/UserMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/UserMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    insert (Lmodel/User;)V update selectByPrimaryKey (Ljava/lang/Long;)Lmodel/User; "RuntimeVisibleParameterAnnotations %Lorg/apache/ibatis/annotations/Param; value id selectByPrimaryKeys "(Ljava/util/List;)Ljava/util/List; 	Signature B(Ljava/util/List<Ljava/lang/Long;>;)Ljava/util/List<Lmodel/User;>; ids findByToken $(Ljava/lang/String;)Ljava/util/List; 2(Ljava/lang/String;)Ljava/util/List<Lmodel/User;>; token findByAccountId 	accountId 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/userMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/userMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.CommentMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.NotificationMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.QuestionMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.UserMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 849373393.
+[DEBUG][20-08-13][book.mapper.UserMapper.selectByPrimaryKey]==>  Preparing: select * from user where id = ?
+[DEBUG][20-08-13][book.mapper.UserMapper.selectByPrimaryKey]==> Parameters: 1(Long)
+[DEBUG][20-08-13][book.mapper.UserMapper.selectByPrimaryKey]<==      Total: 1
+[DEBUG][20-08-13][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-13][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][20-08-13][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: Comment.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: Notification.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: Question.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: User.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 i K
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 p P
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 _ C
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Comment matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Notification matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Question matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.User matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionQueryDTO.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class dto.QuestionQueryDTO matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: CommentMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: commentMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: NotificationMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: notificationMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: questionMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: UserMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: userMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/CommentMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/CommentMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    selectByExample !(Lmodel/Comment;)Ljava/util/List; 	Signature 2(Lmodel/Comment;)Ljava/util/List<Lmodel/Comment;>; insert (Lmodel/Comment;)V selectByPrimaryKey !(Ljava/lang/Long;)Lmodel/Comment; incCommentCount 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/commentMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/commentMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/NotificationMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/NotificationMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    countByExample )(Lmodel/Notification;)Ljava/lang/Integer; insert (Lmodel/Notification;)I selectByPrimaryKey &(Ljava/lang/Long;)Lmodel/Notification; updateByPrimaryKey selectByExampleWithRowbounds !(Ljava/util/Map;)Ljava/util/List; 	Signature 7(Ljava/util/Map;)Ljava/util/List<Lmodel/Notification;>; unreadCount &(Lmodel/Notification;)Ljava/lang/Long; 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/notificationMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/notificationMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/QuestionMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/QuestionMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    insert (Lmodel/Question;)V selectByPrimaryKey "(Ljava/lang/Long;)Lmodel/Question; update (Lmodel/Question;)I 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/questionMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/questionMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/UserMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/UserMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    insert (Lmodel/User;)V update selectByPrimaryKey (Ljava/lang/Long;)Lmodel/User; "RuntimeVisibleParameterAnnotations %Lorg/apache/ibatis/annotations/Param; value id selectByPrimaryKeys "(Ljava/util/List;)Ljava/util/List; 	Signature B(Ljava/util/List<Ljava/lang/Long;>;)Ljava/util/List<Lmodel/User;>; ids findByToken $(Ljava/lang/String;)Ljava/util/List; 2(Ljava/lang/String;)Ljava/util/List<Lmodel/User;>; token findByAccountId 	accountId 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/userMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/userMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.CommentMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.NotificationMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.QuestionMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.UserMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 2008966511.
+[DEBUG][20-08-13][book.mapper.UserMapper.selectByPrimaryKeys]==>  Preparing: select * from user where id in ( ? , ? )
+[DEBUG][20-08-13][book.mapper.UserMapper.selectByPrimaryKeys]==> Parameters: 1(Long), 3(Long)
+[DEBUG][20-08-13][book.mapper.UserMapper.selectByPrimaryKeys]<==      Total: 2
+[DEBUG][20-08-13][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-13][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][20-08-13][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: Comment.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: Notification.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: Question.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: User.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 i K
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 p P
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 _ C
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Comment matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Notification matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Question matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.User matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionQueryDTO.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class dto.QuestionQueryDTO matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: CommentMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: commentMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: NotificationMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: notificationMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: questionMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: UserMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: userMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/CommentMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/CommentMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    selectByExample !(Lmodel/Comment;)Ljava/util/List; 	Signature 2(Lmodel/Comment;)Ljava/util/List<Lmodel/Comment;>; insert (Lmodel/Comment;)V selectByPrimaryKey !(Ljava/lang/Long;)Lmodel/Comment; incCommentCount 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/commentMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/commentMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/NotificationMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/NotificationMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    countByExample )(Lmodel/Notification;)Ljava/lang/Integer; insert (Lmodel/Notification;)I selectByPrimaryKey &(Ljava/lang/Long;)Lmodel/Notification; updateByPrimaryKey selectByExampleWithRowbounds !(Ljava/util/Map;)Ljava/util/List; 	Signature 7(Ljava/util/Map;)Ljava/util/List<Lmodel/Notification;>; unreadCount &(Lmodel/Notification;)Ljava/lang/Long; 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/notificationMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/notificationMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/QuestionMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/QuestionMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    insert (Lmodel/Question;)V selectByPrimaryKey "(Ljava/lang/Long;)Lmodel/Question; update (Lmodel/Question;)I 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/questionMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/questionMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/UserMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/UserMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    insert (Lmodel/User;)V update selectByPrimaryKey (Ljava/lang/Long;)Lmodel/User; "RuntimeVisibleParameterAnnotations %Lorg/apache/ibatis/annotations/Param; value id selectByPrimaryKeys "(Ljava/util/List;)Ljava/util/List; 	Signature B(Ljava/util/List<Ljava/lang/Long;>;)Ljava/util/List<Lmodel/User;>; ids findByToken $(Ljava/lang/String;)Ljava/util/List; 2(Ljava/lang/String;)Ljava/util/List<Lmodel/User;>; token findByAccountId 	accountId 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/userMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/userMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.CommentMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.NotificationMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.QuestionMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.UserMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 849373393.
+[DEBUG][20-08-13][book.mapper.UserMapper.findByToken]==>  Preparing: select * from user where token = ?
+[DEBUG][20-08-13][book.mapper.UserMapper.findByToken]==> Parameters: e9fc7196-2853-49b8-840d-e34fcd5021e7(String)
+[DEBUG][20-08-13][book.mapper.UserMapper.findByToken]<==      Total: 1
+[DEBUG][20-08-13][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-13][org.apache.ibatis.logging.LogFactory]Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VFS
+[DEBUG][20-08-13][org.apache.ibatis.io.JBoss6VFS]JBoss 6 VFS API is not available in this environment.
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]Class not found: org.jboss.vfs.VirtualFile
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+[DEBUG][20-08-13][org.apache.ibatis.io.VFS]Using VFS adapter org.apache.ibatis.io.DefaultVFS
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: Comment.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: Notification.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: Question.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: User.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/model
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Comment.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 i K
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Notification.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/Question.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 p P
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/model/User.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 _ C
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Comment matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Notification matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.Question matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class model.User matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionQueryDTO.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/dto
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/dto/QuestionQueryDTO.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1 
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class dto.QuestionQueryDTO matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]PooledDataSource forcefully closed/removed all connections.
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: CommentMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: commentMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: NotificationMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: notificationMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: QuestionMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: questionMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: UserMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: userMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Listing file:/D:/study/testPro/mybatis-01/target/classes/book.mapper
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/CommentMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/CommentMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    selectByExample !(Lmodel/Comment;)Ljava/util/List; 	Signature 2(Lmodel/Comment;)Ljava/util/List<Lmodel/Comment;>; insert (Lmodel/Comment;)V selectByPrimaryKey !(Ljava/lang/Long;)Lmodel/Comment; incCommentCount 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/commentMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/commentMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/NotificationMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/NotificationMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    countByExample )(Lmodel/Notification;)Ljava/lang/Integer; insert (Lmodel/Notification;)I selectByPrimaryKey &(Ljava/lang/Long;)Lmodel/Notification; updateByPrimaryKey selectByExampleWithRowbounds !(Ljava/util/Map;)Ljava/util/List; 	Signature 7(Ljava/util/Map;)Ljava/util/List<Lmodel/Notification;>; unreadCount &(Lmodel/Notification;)Ljava/lang/Long; 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/notificationMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/notificationMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/QuestionMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/QuestionMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    insert (Lmodel/Question;)V selectByPrimaryKey "(Ljava/lang/Long;)Lmodel/Question; update (Lmodel/Question;)I 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/questionMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/questionMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/UserMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/UserMapper.class
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: ����   1    insert (Lmodel/User;)V update selectByPrimaryKey (Ljava/lang/Long;)Lmodel/User; "RuntimeVisibleParameterAnnotations %Lorg/apache/ibatis/annotations/Param; value id selectByPrimaryKeys "(Ljava/util/List;)Ljava/util/List; 	Signature B(Ljava/util/List<Ljava/lang/Long;>;)Ljava/util/List<Lmodel/User;>; ids findByToken $(Ljava/lang/String;)Ljava/util/List; 2(Ljava/lang/String;)Ljava/util/List<Lmodel/User;>; token findByAccountId 	accountId 
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Find JAR URL: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/userMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Not a JAR: file:/D:/study/testPro/mybatis-01/target/classes/book.mapper/userMapper.xml
+[DEBUG][20-08-13][org.apache.ibatis.io.DefaultVFS]Reader entry: <?xml version="1.0" encoding="UTF-8" ?>
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.CommentMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.NotificationMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.QuestionMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.io.ResolverUtil]Checking to see if class book.mapper.UserMapper matches criteria [is assignable to Object]
+[DEBUG][20-08-13][org.apache.ibatis.transaction.jdbc.JdbcTransaction]Opening JDBC Connection
+[DEBUG][20-08-13][org.apache.ibatis.datasource.pooled.PooledDataSource]Created connection 849373393.
+[DEBUG][20-08-13][book.mapper.UserMapper.findByAccountId]==>  Preparing: select * from user where account_id = ?
+[DEBUG][20-08-13][book.mapper.UserMapper.findByAccountId]==> Parameters: 498f1c26-551b-4171-8e1f-9ba613bd37df(String)
+[DEBUG][20-08-13][book.mapper.UserMapper.findByAccountId]<==      Total: 1

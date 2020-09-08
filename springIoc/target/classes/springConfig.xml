@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="comment" class="model.Comment">
+        <property name="content" value="你好"/>
+    </bean>
+
+    <bean id="comment1" class="model.Comment">
+        <constructor-arg name="commentator" value="1"/>
+        <constructor-arg name="commentCount" value="3"/>
+    </bean>
+
+</beans>
